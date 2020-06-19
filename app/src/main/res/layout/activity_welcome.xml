@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".WelcomeActivity">
+    tools:context="WelcomeActivity">
 
     <ImageView
         android:id="@+id/imageView"
@@ -65,7 +65,7 @@
         android:fontFamily="@font/montserrat"
         android:gravity="center"
         android:singleLine="false"
-        android:text="Find a team in your city & dominate the league"
+        android:text="Find a team in your city and dominate the league"
         android:textColor="@android:color/white"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.50"
