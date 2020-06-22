@@ -1,10 +1,11 @@
-package com.nunogp.swoosh
+package com.nunogp.swoosh.Controller
 
 import android.content.Intent
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
 import android.widget.Toast
+import com.nunogp.swoosh.Utilities.EXTRA_LEAGUE
+import com.nunogp.swoosh.R
 import kotlinx.android.synthetic.main.activity_league.*
 
 //substitui AppCompatActivity por BaseActivity para herdar

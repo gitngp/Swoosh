@@ -1,8 +1,8 @@
-package com.nunogp.swoosh
+package com.nunogp.swoosh.Controller
 
 import android.content.Intent
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.nunogp.swoosh.R
 import kotlinx.android.synthetic.main.activity_welcome.*
 //substitui AppCompatActivity por BaseActivity para herdar
 //class LeagueActivity : AppCompatActivity() {

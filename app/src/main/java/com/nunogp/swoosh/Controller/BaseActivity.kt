@@ -1,4 +1,4 @@
-package com.nunogp.swoosh
+package com.nunogp.swoosh.Controller
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
